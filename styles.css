@@ -1,0 +1,26 @@
+.name{
+    color: white;
+    background-color: green;
+    
+}
+.greetings{
+    color: red;
+    background-color: aqua;
+}
+table, th, td {
+    border: 4px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: blueviolet;
+}
+td{
+    background-color: lightblue;
+}
+video{
+    width: 500px;
+    height: 300px;
+}
+img{
+    background-color: rgb(233, 28, 223);
+}
