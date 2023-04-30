@@ -8,6 +8,7 @@
     background-color: aqua;
 }
 table, th, td {
+    margin-top: 40px;
     border: 4px solid black;
     border-collapse: collapse;
 }
@@ -18,6 +19,7 @@ td{
     background-color: lightblue;
 }
 video{
+    margin-top: 10px;
     width: 500px;
     height: 300px;
 }
